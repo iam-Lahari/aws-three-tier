@@ -9,9 +9,6 @@
 - **Database Server**: This is the back-end part that stores all the data for the application. It uses databases like MySQL or PostgreSQL to keep track of information.
 
 
-![Three-Tier Architecture](https://avinash.s3.amazonaws.com/3tier.png)
-
-
 ### Overview
 In this architecture, we have three main layers:
 1. **Web Tier**: Handles client requests and serves the front-end website.
